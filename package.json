@@ -9,7 +9,7 @@
     "url": "git://github.com/jaredp/pagedraw.git"
   },
   "engines": {
-    "node": "8.9.0"
+    "node": "18.x"
   },
   "devDependencies": {
     "@types/react": "16.4.1",
